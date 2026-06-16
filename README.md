@@ -28,7 +28,7 @@ Then the cc-mods mods appear in the **Online** tab for one-click install + auto-
 |---|---|
 | [cc-ultrawide](https://github.com/cc-mods/cc-ultrawide) | Ultrawide (21:9) field of view with integer scaling |
 | [cc-aimassist](https://github.com/cc-mods/cc-aimassist) | Gentle controller aim assist |
-| [cc-iostitlebuttons](https://github.com/cc-mods/cc-iostitlebuttons) | Restart/Close title buttons for cc-ios |
+| [cc-iosux](https://github.com/cc-mods/cc-iosux) | cc-ios QoL: Restart/Close title buttons + FPS-counter toggle |
 
 All three are standard CCLoader mods that also run inside the cc-ios WebKit wrapper.
 
