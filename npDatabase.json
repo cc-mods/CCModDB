@@ -2,7 +2,7 @@
 	"cc-ultrawide": {
 		"metadataCCMod": {
 			"id": "cc-ultrawide",
-			"version": "1.0.7",
+			"version": "1.0.8",
 			"title": "CrossCode Ultrawide",
 			"description": "Renders CrossCode at an ultrawide aspect ratio by widening the internal render viewport. This gives a genuinely wider field of view (you see more of the world) instead of a stretched image, and supports pixel-perfect integer scaling. Works on desktop and the cc-ios iOS wrapper.",
 			"repository": "https://github.com/cc-mods/cc-ultrawide",
@@ -20,20 +20,21 @@
 				"crosscode": "^1.1.0 || 1.0.2"
 			},
 			"postload": "postload.js",
-			"prestart": "prestart.js"
+			"prestart": "prestart.js",
+			"poststart": "poststart.js"
 		},
 		"installation": [
 			{
 				"type": "zip",
-				"url": "https://github.com/cc-mods/cc-ultrawide/releases/download/v1.0.7/cc-ultrawide-1.0.7.ccmod",
+				"url": "https://github.com/cc-mods/cc-ultrawide/releases/download/v1.0.8/cc-ultrawide-1.0.8.ccmod",
 				"source": "",
 				"hash": {
-					"sha256": "0e066d8511d708749e21e110620224e2cb8078ed4d03b552cd75e98d6e1400ec"
+					"sha256": "656e9a0dee5423835e46ff25d68f49d96fbd76a96500222430ba296c575853f8"
 				}
 			}
 		],
 		"stars": 0,
-		"lastUpdateTimestamp": 1781649831000
+		"lastUpdateTimestamp": 1781657859000
 	},
 	"cc-aimassist": {
 		"metadataCCMod": {
