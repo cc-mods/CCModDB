@@ -4,12 +4,12 @@ Part of the **[cc-mods](https://github.com/cc-mods)** CrossCode suite (the mod d
 reads for one-click installs).
 
 📓 **Read the knowledge base first:**
-**[`cc-mods/knowledge`](https://github.com/cc-mods/knowledge)** (private; org members only) is the
+**[`cc-mods/cc-agent-tools`](https://github.com/cc-mods/cc-agent-tools)** (private; org members only) is the
 source of truth for hard-won findings. Most relevant here:
-- [`ccmoddb-and-distribution.md`](https://github.com/cc-mods/knowledge/blob/main/ccmoddb-and-distribution.md)
+- [`ccmoddb-and-distribution.md`](https://github.com/cc-mods/cc-agent-tools/blob/main/ccmoddb-and-distribution.md)
   — the npDatabase format, how CCModManager fetches `stable`, custom-repo registration, the build.
 
-**When you learn something durable, add it to `cc-mods/knowledge`** and keep this pointer intact.
+**When you learn something durable, add it to `cc-mods/cc-agent-tools`** and keep this pointer intact.
 
 ## What this is
 
