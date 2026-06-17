@@ -39,7 +39,7 @@
 	"cc-aimassist": {
 		"metadataCCMod": {
 			"id": "cc-aimassist",
-			"version": "0.1.5",
+			"version": "0.1.6",
 			"title": "CrossCode Aim Assist",
 			"description": "Gentle controller aim assist — tracks enemies without affecting bullet spread. Modes + tuning in Mod settings.",
 			"repository": "https://github.com/cc-mods/cc-aimassist",
@@ -63,15 +63,15 @@
 		"installation": [
 			{
 				"type": "zip",
-				"url": "https://github.com/cc-mods/cc-aimassist/releases/download/v0.1.5/cc-aimassist-0.1.5.ccmod",
+				"url": "https://github.com/cc-mods/cc-aimassist/releases/download/v0.1.6/cc-aimassist-0.1.6.ccmod",
 				"source": "",
 				"hash": {
-					"sha256": "0dcc9388740445d397feda3b7608ca5e9dc50354b998b72ae953542923908c48"
+					"sha256": "7e354ce38208e6614c75b2a6b7e4b541730da6ffcfe97101e63b8d7f76aa69e0"
 				}
 			}
 		],
 		"stars": 0,
-		"lastUpdateTimestamp": 1781724242000
+		"lastUpdateTimestamp": 1781726410000
 	},
 	"cc-iosux": {
 		"metadataCCMod": {
