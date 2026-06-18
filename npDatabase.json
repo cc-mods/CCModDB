@@ -2,7 +2,7 @@
 	"cc-ultrawide": {
 		"metadataCCMod": {
 			"id": "cc-ultrawide",
-			"version": "1.0.12",
+			"version": "1.0.13",
 			"title": "CrossCode Ultrawide",
 			"description": "Ultrawide field of view: see more of the world, not a stretched image. Width adjustable in Mod settings.",
 			"repository": "https://github.com/cc-mods/cc-ultrawide",
@@ -26,15 +26,15 @@
 		"installation": [
 			{
 				"type": "zip",
-				"url": "https://github.com/cc-mods/cc-ultrawide/releases/download/v1.0.12/cc-ultrawide-1.0.12.ccmod",
+				"url": "https://github.com/cc-mods/cc-ultrawide/releases/download/v1.0.13/cc-ultrawide-1.0.13.ccmod",
 				"source": "",
 				"hash": {
-					"sha256": "6938641256ac94dadd27425b28ae9ac8db9cbca3e81d6efb22a73d7358161d60"
+					"sha256": "a7d57b2fcfe8465926f03bf2c73b7efe837cd6b51e3e4c1ae249d983513b07f1"
 				}
 			}
 		],
 		"stars": 0,
-		"lastUpdateTimestamp": 1781724240000
+		"lastUpdateTimestamp": 1781763113000
 	},
 	"cc-aimassist": {
 		"metadataCCMod": {
